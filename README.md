@@ -7,7 +7,7 @@ Developed an HR workforce analytics dashboard using Power BI and Excel datasets 
 - Power BI
 - Excel Dataset
 - KPI Cards
-- Interactive Slicers
+- Interactive Filters
 - Bar Charts
 - Donut Charts
 - HR Analytics Concepts
@@ -33,8 +33,8 @@ Developed an HR workforce analytics dashboard using Power BI and Excel datasets 
 - Workforce KPI Reporting
 - Employee Trend Analysis
 - Comparative HR Visualizations
-- Slicer-based Filtering
-- Multi-page Reporting
+- Filter-based filtering
+- Two-page employee status reporting
 
 ## 📈 Skills Demonstrated
 - HR Analytics
