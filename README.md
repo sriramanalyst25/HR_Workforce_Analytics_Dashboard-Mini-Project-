@@ -1,4 +1,4 @@
-# 👥 HR Workforce Analytics Dashboard
+# 🧑‍💼 HR Workforce Analytics Dashboard
 
 ## 📖 Project Overview
 Developed an HR workforce analytics dashboard using Power BI and Excel datasets to analyze employee distribution, workforce trends, salary insights and job satisfaction through interactive KPI reporting and visual analytics.
